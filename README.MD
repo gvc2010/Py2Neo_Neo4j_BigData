@@ -1,7 +1,8 @@
-Descrição Geral
+## Descrição Geral
+
 Este script conecta-se a uma base de dados Neo4j e cria nodos (nós) e relacionamentos a partir de dados contidos em arquivos CSV. Em seguida, ele executa algumas consultas para obter informações úteis sobre os dados.
 
-Etapas do Código
+## Etapas do Código
 Instalação do Py2Neo:
 
 O script começa instalando a biblioteca py2neo, que permite interagir com o banco de dados Neo4j usando Python.
