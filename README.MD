@@ -21,11 +21,11 @@ Criação de Nodos no Neo4j:
 Itera sobre cada linha dos DataFrames e cria nodos no banco de dados Neo4j para City (cidade), Customer (cliente), Film (filme) e Language (idioma).
 Criação de Relacionamentos entre Nodos:
 
-Cria relacionamentos entre os nodos, como:
+## Cria relacionamentos entre os nodos, como:
 Relacionar clientes às cidades onde moram.
 Relacionar filmes ao idioma em que foram produzidos.
 Execução de Consultas:
 
-Executa duas consultas para extrair informações úteis:
+## Executa duas consultas para extrair informações úteis:
 Quantidade de filmes existentes em cada idioma.
 Quantidade de clientes que moram na mesma cidade.
