@@ -29,3 +29,8 @@ Relacionar filmes ao idioma em que foram produzidos.
 Executa duas consultas para extrair informações úteis:
 Quantidade de filmes existentes em cada idioma.
 Quantidade de clientes que moram na mesma cidade.
+
+
+## Licença
+
+Este projeto está licenciado sob a licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
